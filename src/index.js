@@ -28,14 +28,14 @@ const moroccanMenu = [
     name: "Tagine with Chicken and Apricots",
     ingredients: "Chicken, apricots, almonds, and aromatic spices",
     price: 90,
-    photoName: "./images/tagine_chicken_apricots.jpg",
+    photoName: "../images/tagine_chicken_apricots.jpg",
     soldOut: false,
   },
   {
     name: "Vegetarian Bastilla",
     ingredients: "Phyllo pastry with layers of vegetables, nuts, and spices",
     price: 140,
-    photoName: "./images/vegetarian_bastilla.jpg",
+    photoName: "/images/vegetarian_bastilla.jpg",
     soldOut: false,
   },
   {

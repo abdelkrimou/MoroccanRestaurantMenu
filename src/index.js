@@ -14,7 +14,7 @@ const moroccanMenu = [
     name: "Harira Soup",
     ingredients: "Tomatoes, lentils, chickpeas, and various spices",
     price: 40,
-    photoName: "./images/harira_soup.jpg",
+    photoName: "../public/images/harira_soup.jpg",
     soldOut: false,
   },
   {

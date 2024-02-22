@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-first-deploy-app/static/css/main.d2e5579a.css",
+    "main.js": "/my-first-deploy-app/static/js/main.56266bbf.js",
+    "index.html": "/my-first-deploy-app/index.html",
+    "main.d2e5579a.css.map": "/my-first-deploy-app/static/css/main.d2e5579a.css.map",
+    "main.56266bbf.js.map": "/my-first-deploy-app/static/js/main.56266bbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2e5579a.css",
+    "static/js/main.56266bbf.js"
+  ]
+}

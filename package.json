@@ -1,7 +1,7 @@
 {
   "name": "pizza-menu",
   "version": "0.1.0",
-  "homepage":"https://abdelkrimou.github.io/my-first-deploy-app",
+  "homepage": "https://abdelkrimou.github.io/MoroccanRestaurantMenu",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

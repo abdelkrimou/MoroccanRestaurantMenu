@@ -118,7 +118,10 @@ function Dishes() {
 function Dish({ moroccanM }) {
   return (
     <li className={`mrmenu ${moroccanM.soldOut ? "sold-out" : ""}`}>
-      <img src={moroccanM.photoName} alt={moroccanM.name} />
+      <img
+        src={process.env.PUBLIC_URL + moroccanM.photoName}
+        alt={moroccanM.name}
+      />
       <div>
         <h3>{moroccanM.name}</h3>
         <p>{moroccanM.ingredients}</p>

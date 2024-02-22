@@ -21,7 +21,7 @@ const moroccanMenu = [
     name: "Couscous with Vegetables",
     ingredients: "Steamed couscous with mixed vegetables",
     price: 95,
-    photoName: "./images/couscous_vegetables.jpg",
+    photoName: "./public/images/couscous_vegetables.jpg",
     soldOut: false,
   },
   {
